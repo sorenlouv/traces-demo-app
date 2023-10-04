@@ -8,7 +8,7 @@ yarn
 
 ### Setup environment vars
 
-Create .env file with the content:
+Create `.env` file with the content:
 
 ```
 SECRET_TOKEN=very_secret
